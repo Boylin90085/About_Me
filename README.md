@@ -32,4 +32,6 @@
 * Twitch 追蹤名單
   - 使用Vue框架
   - 使用vue-resource 串接Twitch API
-  
+* 購物車
+  - 透過JQuery去控制Json物件
+  - 即時新增及刪除清單 並計算價格
