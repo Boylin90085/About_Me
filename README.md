@@ -22,20 +22,20 @@
 ---
 ## 作品
 * 六角西餐廳
-  - 使用 Bootstarp 加上手動修改 CSS
+  - 使用 Bootstarp 加上手動修改 CSS
   - JQuery 滑動效果
 * 仿製 Hahow 課程列表
-  - 使用 AJAX 抓取 JSON
-  - 透過 Vue.js渲染
+  - 使用 AJAX 抓取 JSON
+  - 透過 Vue.js渲染
 * 天氣 APP
   - 使用地理位置定位確定使用者位置
-  - 透過串接 Yahoo Weather API 做使用者位置的天氣查詢
+  - 透過串接 Yahoo Weather API 做使用者位置的天氣查詢
 * Twitch 追蹤名單
-  - 使用 Vue 框架
-  - 使用 Vue-resource 串接Twitch API
+  - 使用 Vue 框架
+  - 使用 Vue-resource 串接Twitch API
 * 購物車
-  - 透過 JQuery 去控制 Json 物件
-  - 即時新增及刪除清單並計算價格
+  - 透過 JQuery 去控制 Json 物件
+  - 即時新增及刪除清單並計算價格
 ---
 ## 關於我
   * 樂於多元吸收新的知識及技術
