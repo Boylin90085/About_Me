@@ -26,3 +26,10 @@
 * 仿製Hahow課程列表
   - 使用AJAX抓取JSON
   - 透過Vue.js渲染
+* 天氣APP
+  - 使用地理位置定位確定使用者位置
+  - 透過串接Yahoo Weather API做使用者位置的天氣查詢
+* Twitch 追蹤名單
+  - 使用Vue框架
+  - 使用vue-resource 串接Twitch API
+  
