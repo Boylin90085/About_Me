@@ -34,7 +34,7 @@
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
 * 購物車
-  - 透過 JQuery 去控制 JSON 物件
+  - 透過 JQuery 控制 JSON 物件
   - 即時新增及刪除清單並計算價格
 ---
 ## 關於我
