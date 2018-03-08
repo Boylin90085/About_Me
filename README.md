@@ -1,13 +1,13 @@
-# 林博毅 (Lin Bo-Yi)
+# 林博毅 ( Lin Bo-Yi )
 
 *   Education： 南臺科技大學/資訊工程系
-*   Location： YiLan
+*   Location： Yi-Lan
 *   E-Mail： boylin90085@gmail.com
 
 
 ---
 ## 技能
-### HTML&CSS
+### HTML & CSS
 * 熟悉 HTML + CSS 建構及規劃網頁，可以不依賴 Framework 進行 RWD 客製化
 * 使用 Pug(Jade) & Sass 撰寫易管理的程式碼
 * 使用 Bootstrap 快速開發 RWD 響應式網頁
@@ -17,7 +17,7 @@
 * 使用 Vue.js 即時渲染及處理資料
 * 運用 AJAX 撈取 JSON 並處理資料
 ### Git/Github
-*   基礎 Git/GitHub 指令
+* 基礎 Git/GitHub 指令
 
 ---
 ## 作品
@@ -26,15 +26,15 @@
   - JQuery 滑動效果
 * 仿製 Hahow 課程列表
   - 使用 AJAX 抓取 JSON
-  - 透過 Vue.js渲染
+  - 透過 Vue.js 渲染
 * 天氣 APP
   - 使用地理位置定位確定使用者位置
   - 透過串接 Yahoo Weather API 做使用者位置的天氣查詢
 * Twitch 追蹤名單
   - 使用 Vue.js 框架
-  - 使用 Vue-resource 串接 Twitch API
+  - 使用 vue-resource 串接 Twitch API
 * 購物車
-  - 透過 JQuery 去控制 Json 物件
+  - 透過 JQuery 去控制 JSON 物件
   - 即時新增及刪除清單並計算價格
 ---
 ## 關於我
