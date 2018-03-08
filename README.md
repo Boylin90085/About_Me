@@ -31,8 +31,8 @@
   - 使用地理位置定位確定使用者位置
   - 透過串接 Yahoo Weather API 做使用者位置的天氣查詢
 * Twitch 追蹤名單
-  - 使用 Vue 框架
-  - 使用 Vue-resource 串接Twitch API
+  - 使用 Vue.js 框架
+  - 使用 Vue-resource 串接 Twitch API
 * 購物車
   - 透過 JQuery 去控制 Json 物件
   - 即時新增及刪除清單並計算價格
