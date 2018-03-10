@@ -25,6 +25,9 @@
   - RWD 響應式網頁
   - 使用 Bootstarp 加上手動修改 CSS
   - JQuery 滑動效果
+* [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/#future "Title")
+  - 使用 Bootstrap 快速搭建響應式網頁
+  - 應用 Skrollr.js 實作視差滾動
 * 仿製 Hahow 課程列表
   - 使用 AJAX 抓取 JSON
   - 透過 Vue.js 渲染
@@ -37,6 +40,9 @@
 * 購物車
   - 透過 JQuery 控制 JSON 物件
   - 即時新增及刪除清單並計算價格
+
+  
+  
 ---
 ## 關於我
   * 樂於多元吸收新的知識及技術
