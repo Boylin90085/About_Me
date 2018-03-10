@@ -25,7 +25,7 @@
   - RWD 響應式網頁
   - 使用 Bootstarp 加上手動修改 CSS
   - JQuery 滑動效果
-* [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/#future "Title")
+* [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/ "Title")
   - 使用 Bootstrap 快速搭建響應式網頁
   - 應用 Skrollr.js 實作視差滾動
 * 仿製 Hahow 課程列表
