@@ -34,10 +34,10 @@
 * [天氣 APP](https://boylin90085.github.io/Weather-APP/)
   - 使用地理位置定位確定使用者位置
   - 透過 AJAX 串接 Yahoo Weather API 做使用者位置的天氣查詢
-* Twitch 追蹤名單
+* [Twitch 追蹤名單](https://boylin90085.github.io/Twitch-Following/)
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
-* 購物車
+* [購物車](https://boylin90085.github.io/ShoppingCart/)
   - 透過 JQuery 控制 JSON 物件
   - 即時新增及刪除清單並計算價格
 
