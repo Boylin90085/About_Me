@@ -28,7 +28,7 @@
 * [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/ "Title")
   - 使用 Bootstrap 快速搭建響應式網頁
   - 應用 Skrollr.js 實作視差滾動
-* 仿製 Hahow 課程列表
+* [仿製 Hahow 課程列表](https://boylin90085.github.io/Imitation-Hahow/)
   - 使用 AJAX 抓取 JSON
   - 透過 Vue.js 渲染
 * 天氣 APP
