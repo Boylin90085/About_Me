@@ -31,7 +31,7 @@
 * [仿製 Hahow 課程列表](https://boylin90085.github.io/Imitation-Hahow/)
   - 使用 AJAX 抓取 JSON
   - 透過 Vue.js 渲染
-* 天氣 APP
+* [天氣 APP](https://boylin90085.github.io/Weather-APP/)
   - 使用地理位置定位確定使用者位置
   - 透過 AJAX 串接 Yahoo Weather API 做使用者位置的天氣查詢
 * Twitch 追蹤名單
