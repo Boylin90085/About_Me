@@ -1,8 +1,9 @@
 # 林博毅 ( Lin Bo-Yi )
 
 *   Education： 南臺科技大學/資訊工程系
-*   Location： Yi-Lan
-*   E-Mail： boylin90085@gmail.com
+*   Location： Yi-Lan
+*   CodePen： https://codepen.io/skyrake/
+*   E-Mail： boylin90085@gmail.com
 
 
 ---
