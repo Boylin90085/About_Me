@@ -40,7 +40,7 @@
   - 加入 Twitter 及 tumblr 分享按鈕可以及時分享喜歡的語錄
 * [維基查詢](https://boylin90085.github.io/WikiViewer/)
   - 使用 Vue.js 框架
-  - 使用 vue-resource 串接維基 API 將查詢結果透過 Vue.js 渲染出來並連結至Wiki頁面
+  - 使用 vue-resource 串接維基 API 將查詢結果透過 Vue.js 渲染出來並連結至Wiki頁面
 * [Twitch 追蹤名單](https://boylin90085.github.io/Twitch-Following/)
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
@@ -54,3 +54,4 @@
 ## 關於我
   * 樂於多元吸收新的知識及技術
   * 樂於與團隊溝通合作
+  * 遇到問題時發揮 Read-Search-Ask 的精神，了解並解決問題
