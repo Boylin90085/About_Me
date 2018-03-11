@@ -19,6 +19,8 @@
 * 運用 AJAX 撈取 JSON 並處理資料
 ### Git/Github
 * 基礎 Git/GitHub 指令
+### 其他
+* Gulp 自動化工具
 
 ---
 ## 作品
