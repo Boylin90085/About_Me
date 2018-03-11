@@ -34,6 +34,13 @@
 * [天氣 APP](https://boylin90085.github.io/Weather-APP/)
   - 使用地理位置定位確定使用者位置
   - 透過 AJAX 串接 Yahoo Weather API 做使用者位置的天氣查詢
+* [隨機語錄](https://boylin90085.github.io/Random-Quotes/)
+  - 使用 AJAX 串接 Random Famous Quotes API
+  - 使用 JQuery 製作動畫轉場效果
+  - 加入 Twitter 及 tumblr 分享按鈕可以及時分享喜歡的語錄
+* [維基查詢](https://boylin90085.github.io/WikiViewer/)
+  - 使用 Vue.js 框架
+  - 使用 vue-resource 串接維基 API 將查詢結果透過 Vue.js 渲染出來並連結至Wiki頁面
 * [Twitch 追蹤名單](https://boylin90085.github.io/Twitch-Following/)
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
