@@ -7,8 +7,8 @@
 
 
 ---
-## 技能
-### HTML & CSS
+## 前端技能
+### Web Layout
 * 熟悉 HTML + CSS 建構及規劃網頁，可以不依賴 Framework 進行 RWD 客製化
 * 使用 Pug(Jade) & Sass 撰寫易管理的程式碼
 * 使用 Bootstrap 快速開發 RWD 響應式網頁
