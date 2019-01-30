@@ -1,5 +1,5 @@
 # 林博毅 ( Lin Bo-Yi )
-# 奕奇數位科技 - 前端工程師(2017/05 ~ now)
+## 奕奇數位科技 - 前端工程師(2017/05 ~ now)
 *   Education： 南臺科技大學/資訊工程系
 *   Location： Yi-Lan
 *   CodePen： https://codepen.io/skyrake/
