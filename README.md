@@ -9,14 +9,19 @@
 ---
 ## 前端技能
 ### Web Layout
-* 熟悉 HTML + CSS 建構及規劃網頁，可以不依賴 Framework 進行 RWD 客製化
-* 使用 Pug(Jade) & Sass 撰寫易管理的程式碼
-* 使用 Bootstrap 快速開發 RWD 響應式網頁
+* HTML
+  - 使用語意化標籤增加網頁可讀性、優化 SEO
+  - 使用 Pug(Jade) 模組化 HTML
+* CSS
+  - 會使用 FlexBox 做排版
+  - 可以不依賴 Framework 進行 RWD 客製化
+  - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
+* 使用 Bootstrap 4 快速開發 RWD 響應式網頁
+　- 
 ### JavaScript
 * 了解 JavaScript 語法
-* 使用 JQuery 製作網頁動畫效果
-* 使用 Vue.js 即時渲染及處理資料
-* 運用 AJAX 撈取 JSON 並處理資料
+* 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
+* 運用 AJAX 串接 API 
 ### Git/Github
 * 基礎 Git/GitHub 指令
 ### 其他
