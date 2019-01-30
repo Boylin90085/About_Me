@@ -1,5 +1,5 @@
 # 林博毅 ( Lin Bo-Yi )
-
+# 奕奇數位科技 - 前端工程師(2017/05 ~ now)
 *   Education： 南臺科技大學/資訊工程系
 *   Location： Yi-Lan
 *   CodePen： https://codepen.io/skyrake/
@@ -17,29 +17,38 @@
   - 可以不依賴 Framework 進行 RWD 客製化
   - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
 * 使用 Bootstrap 4 快速開發 RWD 響應式網頁
-　- 客製化 Bootstrap 的樣式
+　- 使用 SASS 客製化 Bootstrap 的樣式
 ### JavaScript
-* 了解 JavaScript 語法
+* 有基礎 JavaScript 能力
+* 基本 ES6 運用
 * 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
 * 運用 AJAX 串接 API
 ### Vue.js
-
+* 使用 Vue CLI 開發 SPA(單頁式應用)
+* 會使用相關套件: Vue Router、Vuex、vue-axios
 ### Git/Github
 * 基礎 Git/GitHub 指令
 ### 其他
 * Gulp 自動化工具
 
 ---
+## 公司專案
+  * 線上考試系統
+    - 使用 Vue Cli 3 開發
+    - 相關套件: Vue Router、Vuex、vue-axios
+    - 引入 Bootstrap 4 並使用 SASS 客製化
+    - 使用 vue-axios 串接後端 API
+    
 ## 我的作品
 * [THE F2E 台北市颱風災害動態資訊](https://boylin90085.github.io/The-F2E-TimeHouse.Bonus_TyphoonInfo/dist/#/ "Title")
-  - Vuc Cli 2 開發
+  - Vue CLI 2 開發
   - 使用 Element 元件庫
-  - 串接 Graphql 的 APIhttps://codepen.io/skyrake/pen/BOrpGP
+  - 串接 Graphql 的 API
 * [前端圖片壓縮](https://codepen.io/skyrake/pen/qyrQpK "Title")
   - 使用 HTML5 file API + canvas 進行圖片前端壓縮
 * [六角西餐廳](https://boylin90085.github.io/RWD-HexRestaurant/index.html "Title")
   - RWD 響應式網頁
-  - 使用 Bootstarp 加上手動修改 CSS
+  - 使用 Bootstarp 加上客製 CSS
   - JQuery 滑動效果
 * [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/ "Title")
   - 使用 Bootstrap 快速搭建響應式網頁
@@ -63,18 +72,9 @@
 * [購物車](https://boylin90085.github.io/ShoppingCart/)
   - 透過 JQuery 控制 JSON 物件
   - 即時新增及刪除清單並計算價格
-  
-## 公司專案
-  * 線上考試系統
-    - 使用 Vue Cli 3 開發
-    - 引入 Bootstrap 4 並自行客製化
     
-
-  
-  
 ---
 ## 關於我
   * 遇到問題時發揮 Read-Search-Ask 的精神，了解並解決問題
   * 樂於多元吸收新的知識及技術
-  * 樂於與團隊溝通合作
-
+  * 樂於與團隊溝通討論，共同找出解決問題的辦法
