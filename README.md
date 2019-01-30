@@ -20,7 +20,7 @@
 　- 使用 SASS 客製化 Bootstrap 的樣式
 ### JavaScript
 * 有基礎 JavaScript 能力
-* 基本 ES6 運用
+* 基本 ES6 運用(const、let、箭頭函式、其餘函式)
 * 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
 * 運用 AJAX 串接 API
 ### Vue.js
