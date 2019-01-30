@@ -17,18 +17,26 @@
   - 可以不依賴 Framework 進行 RWD 客製化
   - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
 * 使用 Bootstrap 4 快速開發 RWD 響應式網頁
-　- 
+　- 客製化 Bootstrap 的樣式
 ### JavaScript
 * 了解 JavaScript 語法
 * 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
-* 運用 AJAX 串接 API 
+* 運用 AJAX 串接 API
+### Vue.js
+
 ### Git/Github
 * 基礎 Git/GitHub 指令
 ### 其他
 * Gulp 自動化工具
 
 ---
-## 作品
+## 我的作品
+* [THE F2E 台北市颱風災害動態資訊](https://boylin90085.github.io/The-F2E-TimeHouse.Bonus_TyphoonInfo/dist/#/ "Title")
+  - Vuc Cli 2 開發
+  - 使用 Element 元件庫
+  - 串接 Graphql 的 APIhttps://codepen.io/skyrake/pen/BOrpGP
+* [前端圖片壓縮](https://codepen.io/skyrake/pen/qyrQpK "Title")
+  - 使用 HTML5 file API + canvas 進行圖片前端壓縮
 * [六角西餐廳](https://boylin90085.github.io/RWD-HexRestaurant/index.html "Title")
   - RWD 響應式網頁
   - 使用 Bootstarp 加上手動修改 CSS
@@ -55,6 +63,12 @@
 * [購物車](https://boylin90085.github.io/ShoppingCart/)
   - 透過 JQuery 控制 JSON 物件
   - 即時新增及刪除清單並計算價格
+  
+## 公司專案
+  * 線上考試系統
+    - 使用 Vue Cli 3 開發
+    - 引入 Bootstrap 4 並自行客製化
+    
 
   
   
