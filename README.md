@@ -17,7 +17,7 @@
   - 可以不依賴 Framework 進行 RWD 客製化
   - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
 * 使用 Bootstrap 4 快速開發 RWD 響應式網頁
-　- 使用 SASS 客製化 Bootstrap 的樣式
+  - 使用 SASS 客製化 Bootstrap 的樣式
 ### JavaScript
 * 有基礎 JavaScript 能力
 * 基本 ES6 運用(const、let、箭頭函式、其餘函式)
