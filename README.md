@@ -1,9 +1,9 @@
 # 林博毅 ( Lin Bo-Yi )
-### 奕奇數位科技 - 前端工程師(2017/05 ~ Now)
+### 奕奇數位科技 - 前端工程師(2018/05 ~ Now)
 *   Education： 南臺科技大學/資訊工程系
 *   Location： Yi-Lan
 *   CodePen： https://codepen.io/skyrake/
-*   E-Mail： boylin90085@gmail.com
+*   E-Mail： ricklin90085@gmail.com
 
 
 ---
@@ -13,19 +13,22 @@
   - 使用語意化標籤增加網頁可讀性、優化 SEO
   - 使用 Pug(Jade) 模組化 HTML
 * CSS
-  - 會使用 FlexBox 做排版
+  - 熟悉 CSS3 的 Flexbox 排版
   - 可以不依賴 Framework 進行 RWD 客製化
   - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
-* 使用 Bootstrap 4 快速開發 RWD 響應式網頁
-  - 使用 SASS 客製化 Bootstrap 的樣式
+* 使用 Bootstrap 4, ElementUI 快速開發 RWD 響應式網頁
+  - 使用 SASS 客製化 Bootstrap, ElementUI 的樣式
 ### JavaScript
-* 有基礎 JavaScript 能力
+* 熟悉 JavaScript
 * 基本 ES6 運用(const、let、箭頭函式、其餘函式)
 * 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
 * 運用 AJAX 串接 API
+* 串接 Facebook Account Kit 登入
 ### Vue.js
-* 使用 Vue CLI 開發 SPA(單頁式應用)
-* 會使用相關套件: Vue Router、Vuex、vue-axios
+* Vue CLI3
+* Vue Router
+* Vuex
+* vue-axios
 ### Git/Github
 * 基礎 Git/GitHub 指令
 ### 其他
