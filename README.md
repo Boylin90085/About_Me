@@ -28,7 +28,7 @@
 * Vue CLI3
 * Vue Router
 * Vuex
-* vue-axios
+* Vue-axios
 ### Git/Github
 * 基礎 Git/GitHub 指令
 ### 其他
@@ -49,7 +49,11 @@
   - 串接 Graphql 的 API
 * [前端圖片壓縮](https://codepen.io/skyrake/pen/qyrQpK "Title")
   - 使用 HTML5 file API + canvas 進行圖片前端壓縮
-* [六角西餐廳](https://boylin90085.github.io/RWD-HexRestaurant/index.html "Title")
+  - 輸出的 formdata 可供後端使用
+* [THE F2E 甜點電商](https://codepen.io/skyrake/pen/qyrQpK "Title")
+  - RWD 響應式網頁
+  - Pug + Sass 切版
+* [六角西餐廳](https://boylin90085.github.io/The-F2E_PK/dist/ "Title")
   - RWD 響應式網頁
   - 使用 Bootstarp 加上客製 CSS
   - JQuery 滑動效果
@@ -72,12 +76,9 @@
 * [Twitch 追蹤名單](https://boylin90085.github.io/Twitch-Following/)
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
-* [購物車](https://boylin90085.github.io/ShoppingCart/)
-  - 透過 JQuery 控制 JSON 物件
-  - 即時新增及刪除清單並計算價格
     
 ---
 ## 關於我
   * 遇到問題時發揮 Read-Search-Ask 的精神，了解並解決問題
-  * 樂於多元吸收新的知識及技術
+  * 樂於多元吸收新的知識及技術，參與社群活動
   * 樂於與團隊溝通討論，共同找出解決問題的辦法
