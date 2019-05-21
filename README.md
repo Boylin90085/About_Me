@@ -5,43 +5,6 @@
 *   CodePen： https://codepen.io/skyrake/
 *   E-Mail： ricklin90085@gmail.com
 
-
----
-## 前端技能
-### Web Layout
-* HTML
-  - 使用語意化標籤增加網頁可讀性、優化 SEO
-  - 使用 Pug(Jade) 模組化 HTML
-* CSS
-  - 熟悉 CSS3 的 Flexbox 排版
-  - 可以不依賴 Framework 進行 RWD 客製化
-  - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
-* 使用 Bootstrap 4, ElementUI 快速開發 RWD 響應式網頁
-  - 使用 SASS 客製化 Bootstrap, ElementUI 的樣式
-### JavaScript
-* 熟悉 JavaScript
-* 基本 ES6 運用(const、let、箭頭函式、其餘函式)
-* 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
-* 運用 AJAX 串接 API
-* 串接 Facebook Account Kit 登入
-### Vue.js
-* Vue CLI3
-* Vue Router
-* Vuex
-* Vue-axios
-### Git/Github
-* 基礎 Git/GitHub 指令
-### 其他
-* Gulp 自動化工具
-
----
-## 公司專案
-  * 線上考試系統
-    - 使用 Vue Cli 3 開發
-    - 相關套件: Vue Router、Vuex、vue-axios
-    - 引入 Bootstrap 4 並使用 SASS 客製化
-    - 使用 vue-axios 串接後端 API
-    
 ## 我的作品
 * [THE F2E 台北市颱風災害動態資訊](https://boylin90085.github.io/The-F2E-TimeHouse.Bonus_TyphoonInfo/dist/#/ "Title")
   - Vue CLI 2 開發
@@ -82,7 +45,33 @@
 * [Twitch 追蹤名單](https://boylin90085.github.io/Twitch-Following/)
   - 使用 Vue.js 框架
   - 使用 vue-resource 串接 Twitch API
-    
+---
+## 前端技能
+### Web Layout
+* HTML
+  - 使用語意化標籤增加網頁可讀性、優化 SEO
+  - 使用 Pug(Jade) 模組化 HTML
+* CSS
+  - 熟悉 CSS3 的 Flexbox 排版
+  - 可以不依賴 Framework 進行 RWD 客製化
+  - 使用 Sass(SCSS) 撰寫可複用的、維護性佳的 CSS
+* 使用 Bootstrap 4, ElementUI 快速開發 RWD 響應式網頁
+  - 使用 SASS 客製化 Bootstrap, ElementUI 的樣式
+### JavaScript
+* 熟悉 JavaScript
+* 基本 ES6 運用(const、let、箭頭函式、其餘函式)
+* 使用 JQuery 操作 DOM 元素、製作網頁動畫效果
+* 運用 AJAX 串接 API
+* 串接 Facebook Account Kit 登入
+### Vue.js
+* Vue CLI3
+* Vue Router
+* Vuex
+* Vue-axios
+### Git/Github
+* 基礎 Git/GitHub 指令
+### 其他
+* Gulp 自動化工具
 ---
 ## 關於我
   * 遇到問題時發揮 Read-Search-Ask 的精神，了解並解決問題
