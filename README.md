@@ -47,12 +47,18 @@
   - Vue CLI 2 開發
   - 使用 Element 元件庫
   - 串接 Graphql 的 API
-* [前端圖片壓縮](https://codepen.io/skyrake/pen/qyrQpK "Title")
+* [前端圖片壓縮](https://codepen.io/skyrake/full/qyrQpK "Title")
   - 使用 HTML5 file API + canvas 進行圖片前端壓縮
   - 輸出的 formdata 可供後端使用
-* [THE F2E 甜點電商](https://codepen.io/skyrake/pen/qyrQpK "Title")
+* [THE F2E 甜點電商](https://boylin90085.github.io/The-F2E_PK/dist/ "Title")
   - RWD 響應式網頁
   - Pug + Sass 切版
+  - AOS 滾動動畫
+* [THE F2E 介面設計師轉職之路](https://codepen.io/skyrake/full/bjLoQd "Title")
+  - Pug + Sass 切版
+* [THE F2E Canvas Game](https://codepen.io/skyrake/full/zLNQqr "Title")
+  - (實作到飛機能隨著滑鼠射出子彈)
+  - canvas 實作練習
 * [六角西餐廳](https://boylin90085.github.io/The-F2E_PK/dist/ "Title")
   - RWD 響應式網頁
   - 使用 Bootstarp 加上客製 CSS
