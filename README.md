@@ -25,7 +25,7 @@
 * [THE F2E Canvas Game](https://codepen.io/skyrake/full/zLNQqr "Title")
   - (實作到飛機能隨著滑鼠射出子彈)
   - canvas 實作練習
-* [THE F2E 問答](https://codepen.io/skyrake/full/zLNQqr "Title")
+* [THE F2E 問答](https://codepen.io/skyrake/full/gjXvBP "Title")
   - 嘗試使用 TweenMAX
 * [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/ "Title")
   - 使用 Bootstrap 快速搭建響應式網頁
