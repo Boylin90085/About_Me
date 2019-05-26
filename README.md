@@ -13,6 +13,13 @@
 * [前端圖片壓縮](https://codepen.io/skyrake/full/qyrQpK "Title")
   - 使用 HTML5 file API + canvas 進行圖片前端壓縮
   - 輸出的 formdata 可供後端使用
+* [THE F2E Canvas Game](https://codepen.io/skyrake/full/zLNQqr "Title")
+  - (實作到飛機能隨著滑鼠射出子彈)
+  - canvas 實作練習
+* [THE F2E 問答](https://codepen.io/skyrake/full/gjXvBP "Title")
+  - 嘗試使用 TweenMAX
+* [THE F2E 介面設計師轉職之路](https://codepen.io/skyrake/full/bjLoQd "Title")
+  - Pug + Sass 切版
 * [THE F2E 甜點電商](https://boylin90085.github.io/The-F2E_PK/dist/ "Title")
   - RWD 響應式網頁
   - Pug + Sass 切版
@@ -20,13 +27,6 @@
 * [THE F2E ProductGallery](https://boylin90085.github.io/The-F2E-TimeHouse.04-ProductGallery/dist/ "Title")
   - 使用 Grid 切版
   - 嘗試寫 webpack 設定檔
-* [THE F2E 介面設計師轉職之路](https://codepen.io/skyrake/full/bjLoQd "Title")
-  - Pug + Sass 切版
-* [THE F2E Canvas Game](https://codepen.io/skyrake/full/zLNQqr "Title")
-  - (實作到飛機能隨著滑鼠射出子彈)
-  - canvas 實作練習
-* [THE F2E 問答](https://codepen.io/skyrake/full/gjXvBP "Title")
-  - 嘗試使用 TweenMAX
 * [電腦：創造的無限可能](https://boylin90085.github.io/Computer-Skrollr/ "Title")
   - 使用 Bootstrap 快速搭建響應式網頁
   - 應用 Skrollr.js 實作視差滾動
